@@ -1,4 +1,4 @@
-Hi there, I'm Bakary 👋🏿
+# Hi there, I'm Bakary 👋🏿
 
 Main Technologies: Python and SQL
 🎷 Interests: Jazz; Ancient history; Football
