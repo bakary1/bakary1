@@ -1,5 +1,6 @@
 ### Hi there, I'm Bakary 👋🏿
 
+### About me:
 - 📚 MSc in Data Analytics and Business Economics
 - 💻 Main Technologies: Python and SQL
 - 🎷 Interests: Jazz; Ancient history; Football
