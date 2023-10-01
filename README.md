@@ -5,7 +5,6 @@
 - 🎷 Interests: Jazz; Ancient history; Football
 - ⚡ Fun fact: Aspiring polyglot
 
-<br />
 
 ### Tools and Technologies
 
