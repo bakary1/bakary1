@@ -3,7 +3,7 @@
 ### About me:
 - 📚 MSc in Data Analytics and Business Economics
 - 💻 Main Technologies: Python and SQL
-- 🎷 Interests: Music; Ancient history; Football
+- 🎷 Interests: Jazz blues; Ancient history; Football
 - ⚡ Fun fact: Aspiring polyglot
 
 
