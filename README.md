@@ -16,7 +16,6 @@
 <img align="left" alt="Postgree" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/745px-Postgresql_elephant.svg.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-<img align="left" alt="Azure Service Fabric" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Azure_Service_Fabric_Logo.svg" />
 
 
 
