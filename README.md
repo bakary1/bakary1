@@ -2,8 +2,9 @@
 
 ### About me:
 - 📚 MSc in Data Analytics and Business Economics
+- 🌱 Exploring: Building LLM applications
 - 💻 Main Technologies: Python and SQL
-- ⚡ Fun fact: Aspiring polyglot
+- ⚡ Fun fact: Aspiring polyglot (Swedish, English, French, Wolof)
 
 
 ### Tools and Technologies
