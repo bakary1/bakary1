@@ -20,4 +20,4 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/bakarybah/"><img alt="Bakary Bah | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/0A66C2" /></a>
+<a href="https://www.linkedin.com/in/bakarybah/"><img alt="Bakary Bah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
